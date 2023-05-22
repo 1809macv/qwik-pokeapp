@@ -1,4 +1,4 @@
-import { $, component$, useContext } from '@builder.io/qwik';
+import { $, component$ } from '@builder.io/qwik';
 import { DocumentHead, useNavigate } from '@builder.io/qwik-city';
 
 import { PokemonImage } from '~/components/pokemons/pokemon-image';
